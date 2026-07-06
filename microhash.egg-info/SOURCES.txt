@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+microhash/__init__.py
+microhash/__main__.py
+microhash/cli.py
+microhash.egg-info/PKG-INFO
+microhash.egg-info/SOURCES.txt
+microhash.egg-info/dependency_links.txt
+microhash.egg-info/entry_points.txt
+microhash.egg-info/top_level.txt
